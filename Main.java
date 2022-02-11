@@ -11,7 +11,11 @@ class Main {
     private static int i = 0;
     private static String[] listado = new String[726];
     public static void main(String[] args) {
+<<<<<<< HEAD
         System.out.println("hola mundo soy fercho");
+=======
+        System.out.println("hola mundo soy torres");
+>>>>>>> 38317a577c1b29c798ec06663a1ba4c5b1f9e714
         try{
             File f;
             FileReader lectorArchivo;
