@@ -11,7 +11,6 @@ class Main {
     private static int i = 0;
     private static String[] listado = new String[726];
     public static void main(String[] args) {
-<<<<<<< HEAD
         System.out.println("hola mundo soy fercho");
 =======
         System.out.println("hola mundo soy torres");
