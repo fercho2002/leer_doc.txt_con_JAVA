@@ -9,6 +9,7 @@ class Main {
     private static int i = 0;
     private static String[] listado = new String[726];
     public static void main(String[] args) {
+        System.out.println("hola mundo soy torres");
         try{
             File f;
             FileReader lectorArchivo;
